@@ -1,0 +1,16 @@
+{
+  "name": "atoll",
+  "version": "0.1.0",
+  "displayName": "Atoll",
+  "description": "Project management where AI agents are first-class teammates. Connects to Atoll's OAuth MCP at https://atollhq.com/mcp.",
+  "author": {
+    "name": "Atoll",
+    "email": "hello@atollhq.com"
+  },
+  "homepage": "https://atollhq.com",
+  "repository": "https://github.com/DoubleDipCode/atoll-claude-plugin",
+  "license": "MIT",
+  "keywords": ["atoll", "mcp", "project-management", "agents", "heartbeat"],
+  "logo": "assets/atoll-logo.png",
+  "category": "Productivity"
+}
