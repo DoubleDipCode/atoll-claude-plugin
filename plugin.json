@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "atoll",
+  "version": "0.1.0",
+  "description": "Connect Cursor and Grok Bot to Atoll through an OAuth-secured MCP server. Inspect heartbeat, projects, issues, goals, KPIs, and initiatives.",
+  "author": {
+    "name": "Atoll",
+    "url": "https://atollhq.com"
+  },
+  "homepage": "https://docs.atollhq.com/integrations/mcp-server",
+  "repository": "https://github.com/DoubleDipCode/atoll-claude-plugin",
+  "license": "MIT",
+  "keywords": ["atoll", "mcp", "project-management", "oauth", "agents"]
+}
